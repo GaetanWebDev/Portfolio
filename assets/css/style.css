@@ -4,6 +4,11 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: white;
+    padding-left: 10%;
+}
+
+.orange-background{
+   background-color: orange;
 }
 
 .navigation{
