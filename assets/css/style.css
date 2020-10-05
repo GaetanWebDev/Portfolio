@@ -1,0 +1,38 @@
+.background{
+    height: 100vh;
+    background-image: url("../img/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.navigation{
+    position: fixed;
+    right: 0;
+    background-color: black;
+}
+
+.puce{
+    list-style-type: none;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+.space-no-color{
+    height: 10vh;
+}
+
+.space{
+    height: 10vh;
+    background-color: rgb(93, 255, 93);
+}
+
+.projet{
+    height: 100vh;
+    background-color: rgb(93, 255, 93);
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
